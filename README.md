@@ -20,13 +20,12 @@ code; no further installation steps (presumably) are required beyond having the 
  
 
 ## authors/credits
-- `HexEmulator`, student at Vancouver Island University, researcher
+- `BeeEffGH`, student at Vancouver Island University, researcher
 - `Jacobus Swarts`, instructor at Vancouver Island University, research supervisor
 
 Thank you to Vancouver Island University for funding this research project, and to the Math Department, and Cobus for 
 giving me the opportunity to gain valuable experience in pursuing research. I'm sure the skills I'm gaining will carry 
-through to all my future research projects.
-~ HexEmulator
+through to all my future research projects. ~BeeEffGH
 
 ## future-work
 
